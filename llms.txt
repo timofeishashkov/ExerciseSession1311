@@ -1,0 +1,20 @@
+There is a package made on tutorial 13.11
+
+# Package index
+
+## All functions
+
+- [`` `%r%` ``](https://github.com/timofeishashkov/ExerciseSession1311/reference/grapes-r-grapes.md)
+  : Fitted linear model
+- [`Person()`](https://github.com/timofeishashkov/ExerciseSession1311/reference/person.md)
+  : Person object
+- [`print(`*`<Person>`*`)`](https://github.com/timofeishashkov/ExerciseSession1311/reference/print.person.md)
+  : Print method for a class person
+- [`snipes`](https://github.com/timofeishashkov/ExerciseSession1311/reference/snipes.md)
+  : Snipes price data
+
+# Articles
+
+### All vignettes
+
+- [Tutorial](https://github.com/timofeishashkov/ExerciseSession1311/articles/Tutorial.md):
