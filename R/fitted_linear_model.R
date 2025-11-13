@@ -5,7 +5,10 @@
 #'
 #' @return fitted coefficients
 #'
+#' @importFrom stats coef lm
+#'
 #' @examples
+#'
 #' 1:2 %r% 2:3
 #'
 #' @export

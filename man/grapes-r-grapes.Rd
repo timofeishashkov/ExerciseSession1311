@@ -18,6 +18,7 @@ fitted coefficients
 Fitted linear model
 }
 \examples{
+
 1:2 \%r\% 2:3
 
 }

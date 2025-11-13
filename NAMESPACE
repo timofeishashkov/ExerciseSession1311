@@ -3,3 +3,5 @@
 S3method(print,person)
 export("%r%")
 export(person)
+importFrom(stats,coef)
+importFrom(stats,lm)
