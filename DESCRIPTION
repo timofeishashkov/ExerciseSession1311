@@ -12,3 +12,11 @@ LazyData: true
 URL: https://github.com/timofeishashkov/ExerciseSession1311
 BugReports: https://github.com/timofeishashkov/ExerciseSession1311/issues
 RoxygenNote: 7.3.2
+Depends: 
+    R (>= 3.5)
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat (>= 3.0.0)
+VignetteBuilder: knitr
+Config/testthat/edition: 3
