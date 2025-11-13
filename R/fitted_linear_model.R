@@ -6,7 +6,7 @@
 #' @return fitted coefficients
 #'
 #' @examples
-#' lm(y = 2:3, x = 1:2)
+#' 1:2 %r% 2:3
 #'
 #' @export
 `%r%` <- function(y, x) {
