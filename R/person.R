@@ -1,16 +1,13 @@
 #' Person object
 #'
-#' @param name Name of a person
-#' @param age Age of a person
+#' @param name Name of a Person
+#' @param age Age of a Person
 #'
-#' @return An object of class `person`.
+#' @return An object of class `Person`
 #'
-#' @examples
-#'
-#' person(name = "Alice", age = 30)
-#' class(p)
+#' @examples Person(name = "Alice", age = 30)
 #'
 #' @export
-person <- function(name, age) {
-  structure(list(name = name, age = age), class = "person")
+Person <- function(name, age) {
+  structure(list(name = name, age = age), class = "Person")
 }

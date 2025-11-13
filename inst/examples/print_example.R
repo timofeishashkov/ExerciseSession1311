@@ -1,2 +1,2 @@
-alice <- person(name = "Alice", age = 30)
-print.person(alice)
+bob_object <- Person(name = "Bob", age = 27)
+print(bob_object)
