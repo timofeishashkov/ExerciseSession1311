@@ -10,6 +10,9 @@
 #' p <- person("Alice", 30)
 #' print(p)
 #'
+#' @example
+#' inst/examples/print_example.R
+#'
 #' @export
 #' @method print person
 print.person <- function(x, ...) {

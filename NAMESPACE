@@ -2,6 +2,4 @@
 
 S3method(print,person)
 export("%r%")
-export("snipes")
 export(person)
-export(print)
