@@ -7,7 +7,7 @@
 #'
 #' @examples
 #'
-#' person("Alice", 30)
+#' person(name = "Alice", age = 30)
 #' class(p)
 #'
 #' @export

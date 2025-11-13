@@ -18,10 +18,9 @@
 Print method for a class person
 }
 \examples{
-
 p <- person("Alice", 30)
-print(p)
+print.person(p)
 
 alice <- person(name = "Alice", age = 30)
-print(alice)
+print.person(alice)
 }

@@ -5,13 +5,10 @@
 #'
 #' @return # prints information about the person
 #'
-#' @examples
+#' @examples p <- person("Alice", 30)
+#' print.person(p)
 #'
-#' p <- person("Alice", 30)
-#' print(p)
-#'
-#' @example
-#' inst/examples/print_example.R
+#' @example inst/examples/print_example.R
 #'
 #' @export
 #' @method print person
